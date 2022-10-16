@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class Ejercicio3{
-    public void main (String [] args){
+    public static void main (String [] args){
         Scanner sc = new Scanner(System.in);
         System.out.println("Este programa convierte de pesetas a euros ");
         System.out.print("Digame cuantas pesetas quiere convertir a euros: ");
